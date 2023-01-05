@@ -15,6 +15,8 @@ scores_german =
 # List of ciphers
 
 https://www.dcode.fr/tools-list
+https://kryptografie.de/kryptografie/chiffre/schriftbeispiele.htm
+https://geocachen.nl/geocaching/geocache-puzzels-oplossen/geocaching-code-tabellen/
 
 # Integer sequences
 
@@ -23,3 +25,4 @@ https://oeis.org/
 # Word finder
 
 http://m.findallwords.com/wordfinder_index_nl.php
+https://puzzel.woordenboek.nu/woordenboek/woordpatroon/
