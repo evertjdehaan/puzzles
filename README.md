@@ -20,6 +20,8 @@ https://kryptografie.de/kryptografie/chiffre/schriftbeispiele.htm
 
 https://geocachen.nl/geocaching/geocache-puzzels-oplossen/geocaching-code-tabellen/
 
+https://www.cachesleuth.com/codes/
+
 # Integer sequences
 
 https://oeis.org/
